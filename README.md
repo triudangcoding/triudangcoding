@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/62492e87-3bae-4575-bd34-e64a8623efe2)
-## 🌐Socials
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/quoctrieu.vo.5458) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/triuvo_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/qu%E1%BB%91c-tri%E1%BB%87u-v%C3%B5-55bb3b310/) 
 
 <h1 align="center">Hi , I'm Vo Quoc Trieu</h1>
