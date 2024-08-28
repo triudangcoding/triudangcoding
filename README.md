@@ -4,7 +4,7 @@
 <h1 align="center">Hi , I'm Vo Quoc Trieu</h1>
 <h3 align="center">I studied Information technology at Duy Tan University</h3>
 <img align="right"
-    src="src="https://imgur.com/a/p2lPPkl"
+    src="src="https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/452998994_1037263207951904_4562410777157272328_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFruA-iw968ytSBDn9Jk-NQsKYVCA9OdYqwphUID051iq83XOkebP0ftviFqSIdLFL-U0qB0sqRfnBxxgQsi7gV&_nc_ohc=btTyv9lk73oQ7kNvgFLwhup&_nc_ht=scontent.fdad3-5.fna&oh=00_AYDw205E77FQ9ZqofywyId_9rsaeZ0PTT-XRZuUIp7gPqw&oe=66D48950"
     width="400">
 
 ```js
