@@ -18,9 +18,6 @@ Feel free to connect with me through the social media links above. I look forwar
 <h4>
   My Portfolio: trieudangcoding.github.io/Portfolio
 </h4>
-<h4>
- My Curriculum Vitae ( CV ): https://bom.so/cvoflmtuan
-</h4> 
 
 
 
