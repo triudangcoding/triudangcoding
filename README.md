@@ -5,7 +5,7 @@
 <h1 align="center">Hi , I'm Vo Quoc Trieu</h1>
 <h3 align="center">I studied Information technology at Duy Tan University</h3>
 <img align="right"
-    src="[https://imgur.com/a/11bttB9](https://imgur.com/a/11bttB9)"
+    src="[[https://imgur.com/a/11bttB9](https://imgur.com/a/11bttB9)](https://imgur.com/a/lAsnde8)"
     width="400">
 
 
