@@ -9,11 +9,17 @@
 
 ```js
 
-Hello! I’m Võ Quốc Triệu, but you can call me TriuVo. I’m currently learning and exploring technologies like Next.js, NestJS, and PostgreSQL. While I may not have extensive experience yet, my passion for programming is immense.
+I’m Võ Quốc Triệu, but you can call me TriuVo. I’m currently learning and exploring new technologies like Next.js, NestJS, and PostgreSQL. Although I don’t have much practical experience yet, I am very passionate about programming and technology.
 
-I’m an approachable person and always eager to learn. My goal is to become a skilled developer to support my family and build a better life for myself.
+I’m focused on learning how to build strong web applications and manage databases. My goal is to become a skilled developer who can contribute to meaningful projects and solve challenging problems.
 
-Feel free to connect with me through the social media links above. I look forward to collaborating and learning with the programming community!
+I’m an easygoing person who is always eager to learn. I believe in continuous personal growth and the importance of working with others. I want to connect with the tech community to share knowledge, learn from others, and grow both personally and professionally.
+
+Outside of programming, I aim to support my family and create a better life for myself. I’m excited to use my skills to make a positive impact and achieve my personal and career goals.
+
+Feel free to connect with me through the social media links above. I look forward to meeting like-minded people, collaborating on interesting projects, and growing in the world of technology.
+
+Looking forward to connecting with you!
 ```
 <h4 link>
   My Portfolio: trieudangcoding.github.io/Portfolio
