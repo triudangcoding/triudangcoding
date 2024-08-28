@@ -2,7 +2,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/quoctrieu.vo.5458) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/triuvo_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/qu%E1%BB%91c-tri%E1%BB%87u-v%C3%B5-55bb3b310/) 
 
 <h1 align="center">Hi , I'm Vo Quoc Trieu</h1>
-<h3 align="center">I studied Information technology at Duy Tan University</h3>
+<h3 align="center">I'm a student Information technology at Duy Tan University</h3>
 <img align="right"
     src="https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/247865471_424602709217960_5872870518716804099_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEi3jt-YGhHkGymR99icD-Mm4T3pNp7RbObhPek2ntFs3WeBgqGTCFu8cPH2mXc0G1yK9WvH-HgOLbxX0ZYy_85&_nc_ohc=ECcn5blCUvgQ7kNvgHGhAHP&_nc_ht=scontent.fdad3-5.fna&oh=00_AYDIk-60fWO0gpT2Iza-O40PzACVQnD3aGXqDd6rB7nFaw&oe=66D4A9A0"
     width="400">
