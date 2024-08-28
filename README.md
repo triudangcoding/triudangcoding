@@ -2,6 +2,28 @@
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/quoctrieu.vo.5458) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/triuvo_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/qu%E1%BB%91c-tri%E1%BB%87u-v%C3%B5-55bb3b310/) 
 
+<h1 align="center">Hi , I'm Vo Quoc Trieu</h1>
+<h3 align="center">I studied Information technology at Duy Tan University</h3>
+<img align="right"
+    src="https://imgur.com/a/11bttB9"
+    width="400">
+
+
+```js
+
+Hello! I’m Võ Quốc Triệu, but you can call me TriuVo. I’m currently learning and exploring technologies like Next.js, NestJS, and PostgreSQL. While I may not have extensive experience yet, my passion for programming is immense.
+
+I’m an approachable person and always eager to learn. My goal is to become a skilled developer to support my family and build a better life for myself.
+
+Feel free to connect with me through the social media links above. I look forward to collaborating and learning with the programming community!
+```
+<h4>
+  My Portfolio: trieudangcoding.github.io/Portfolio
+</h4>
+<h4>
+ My Curriculum Vitae ( CV ): https://bom.so/cvoflmtuan
+</h4> 
+
 
 
 # 💻Tech Stack
