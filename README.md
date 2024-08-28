@@ -3,7 +3,9 @@
 
 <h1 align="center">Hi , I'm Vo Quoc Trieu</h1>
 <h3 align="center">I studied Information technology at Duy Tan University</h3>
-
+<img align="right"
+    src="https://i.imgur.com/PF8DAH6.jpg"
+    width="400">
 
 ```js
 
