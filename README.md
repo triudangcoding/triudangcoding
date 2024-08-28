@@ -9,15 +9,20 @@
 
 ```js
 
-I’m Võ Quốc Triệu, but you can call me TriuVo. I’m currently learning and exploring new technologies like Next.js, NestJS, and PostgreSQL. Although I don’t have much practical experience yet, I am very passionate about programming and technology.
+I’m Võ Quốc Triệu, but you can call me TriuVo. I’m currently learning and exploring new technologies like Next.js, NestJS, and PostgreSQL.
+Although I don’t have much practical experience yet, I am very passionate about programming and technology.
 
-I’m focused on learning how to build strong web applications and manage databases. My goal is to become a skilled developer who can contribute to meaningful projects and solve challenging problems.
+I’m focused on learning how to build strong web applications and manage databases.
+My goal is to become a skilled developer who can contribute to meaningful projects and solve challenging problems.
 
-I’m an easygoing person who is always eager to learn. I believe in continuous personal growth and the importance of working with others. I want to connect with the tech community to share knowledge, learn from others, and grow both personally and professionally.
+I’m an easygoing person who is always eager to learn. I believe in continuous personal growth and the importance of working with others.
+I want to connect with the tech community to share knowledge, learn from others, and grow both personally and professionally.
 
-Outside of programming, I aim to support my family and create a better life for myself. I’m excited to use my skills to make a positive impact and achieve my personal and career goals.
+Outside of programming, I aim to support my family and create a better life for myself
+I’m excited to use my skills to make a positive impact and achieve my personal and career goals.
 
-Feel free to connect with me through the social media links above. I look forward to meeting like-minded people, collaborating on interesting projects, and growing in the world of technology.
+Feel free to connect with me through the social media links above. I look forward to meeting like-minded people
+collaborating on interesting projects, and growing in the world of technology.
 
 Looking forward to connecting with you!
 ```
