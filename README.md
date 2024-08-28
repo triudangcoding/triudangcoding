@@ -4,7 +4,7 @@
 <h1 align="center">Hi , I'm Vo Quoc Trieu</h1>
 <h3 align="center">I studied Information technology at Duy Tan University</h3>
 <img align="right"
-    src="https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/452998994_1037263207951904_4562410777157272328_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFruA-iw968ytSBDn9Jk-NQsKYVCA9OdYqwphUID051iq83XOkebP0ftviFqSIdLFL-U0qB0sqRfnBxxgQsi7gV&_nc_ohc=btTyv9lk73oQ7kNvgFLwhup&_nc_ht=scontent.fdad3-5.fna&oh=00_AYDw205E77FQ9ZqofywyId_9rsaeZ0PTT-XRZuUIp7gPqw&oe=66D48950"
+    src="https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/247865471_424602709217960_5872870518716804099_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEi3jt-YGhHkGymR99icD-Mm4T3pNp7RbObhPek2ntFs3WeBgqGTCFu8cPH2mXc0G1yK9WvH-HgOLbxX0ZYy_85&_nc_ohc=ECcn5blCUvgQ7kNvgHGhAHP&_nc_ht=scontent.fdad3-5.fna&oh=00_AYDIk-60fWO0gpT2Iza-O40PzACVQnD3aGXqDd6rB7nFaw&oe=66D4A9A0"
     width="400">
 
 ```js
