@@ -4,7 +4,7 @@
 <h1 align="center">Hi , I'm Vo Quoc Trieu</h1>
 <h3 align="center">I'm a student Information technology at Duy Tan University</h3>
 <img align="right"
-    src="https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/247865471_424602709217960_5872870518716804099_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEi3jt-YGhHkGymR99icD-Mm4T3pNp7RbObhPek2ntFs3WeBgqGTCFu8cPH2mXc0G1yK9WvH-HgOLbxX0ZYy_85&_nc_ohc=ECcn5blCUvgQ7kNvgHGhAHP&_nc_ht=scontent.fdad3-5.fna&oh=00_AYDIk-60fWO0gpT2Iza-O40PzACVQnD3aGXqDd6rB7nFaw&oe=66D4A9A0"
+    src="https://scontent.fdad3-1.fna.fbcdn.net/v/t39.30808-6/262836871_434460348232196_7435781871699482309_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH9FuwIKOWvWu9qww9V6MYROJITLXNQpHU4khMtc1CkdQNkzr1HIXEbXnfpn--b1PdrWKgpIQsFySh8HifKElHv&_nc_ohc=TfrYhtctui8Q7kNvgGUyWPk&_nc_ht=scontent.fdad3-1.fna&oh=00_AYDRB7hqScRORCHBI3hkh4HAEIIGdTbEbZBrZXV_poPRJw&oe=66E48C87"
     width="400">
 
 ```js
