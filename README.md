@@ -1,10 +1,9 @@
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/quoctrieu.vo.5458) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/triuvo_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/qu%E1%BB%91c-tri%E1%BB%87u-v%C3%B5-55bb3b310/) 
 
 <h1 align="center">Hi , I'm Vo Quoc Trieu</h1>
 <h3 align="center">I'm a student Information technology at Duy Tan University</h3>
 <img align="right"
-    src="https://scontent.fdad3-1.fna.fbcdn.net/v/t39.30808-6/262836871_434460348232196_7435781871699482309_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH9FuwIKOWvWu9qww9V6MYROJITLXNQpHU4khMtc1CkdQNkzr1HIXEbXnfpn--b1PdrWKgpIQsFySh8HifKElHv&_nc_ohc=TfrYhtctui8Q7kNvgGUyWPk&_nc_ht=scontent.fdad3-1.fna&oh=00_AYDRB7hqScRORCHBI3hkh4HAEIIGdTbEbZBrZXV_poPRJw&oe=66E48C87"
+    src="https://scontent.fdad7-1.fna.fbcdn.net/v/t39.30808-6/465847446_1107730007571890_8706319497507212424_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFMFm_zhS5mOKP0sqMh49xXHNsJNNoFciUc2wk02gVyJRgY8Q-yRAKCPBiJJnzx24fbgu4XAxG80BB1nHlqq-cR&_nc_ohc=_nK3AwuqJIQQ7kNvgE3dc75&_nc_zt=23&_nc_ht=scontent.fdad7-1.fna&_nc_gid=Af0JxDejT-b0v-Aya0YnJEf&oh=00_AYDGiErcmKlnXBNoiIaRO0kPqohYFvXOubPGK1XMSvsVYw&oe=675C3408"
     width="400">
 
 ```js
