@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I'm Vo Quoc Trieu</h1>
 <h3 align="center">I'm a student Information technology at Duy Tan University</h3>
 <img align="right"
-    src="https://scontent.fdad7-1.fna.fbcdn.net/v/t39.30808-6/465847446_1107730007571890_8706319497507212424_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFMFm_zhS5mOKP0sqMh49xXHNsJNNoFciUc2wk02gVyJRgY8Q-yRAKCPBiJJnzx24fbgu4XAxG80BB1nHlqq-cR&_nc_ohc=_nK3AwuqJIQQ7kNvgE3dc75&_nc_zt=23&_nc_ht=scontent.fdad7-1.fna&_nc_gid=Af0JxDejT-b0v-Aya0YnJEf&oh=00_AYDGiErcmKlnXBNoiIaRO0kPqohYFvXOubPGK1XMSvsVYw&oe=675C3408"
+    src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"
     width="400">
 
 ```js
