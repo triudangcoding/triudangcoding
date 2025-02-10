@@ -3,30 +3,6 @@
     <h1>🚀 Hi, I'm Vo Quoc Trieu 🌟</h1>
 </div>
 
-<table>
-<tr>
-    <td width="50%">
-        <img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/465847446_1107730007571890_8706319497507212424_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFMFm_zhS5mOKP0sqMh49xXHNsJNNoFciUc2wk02gVyJRgY8Q-yRAKCPBiJJnzx24fbgu4XAxG80BB1nHlqq-cR&_nc_ohc=-545iwzLrJwQ7kNvgFODtWf&_nc_oc=Adhx5hCBHg-SBStai82NaeqcR5yUsLHyQyarE3baNCDi18DvUEWbKbuAZKYgBmljxNc&_nc_zt=23&_nc_ht=scontent.fdad1-2.fna&_nc_gid=Ayj17S-Kgk2cLBV-uNP85EZ&oh=00_AYCShCa8KjSLfrgb6xnYbfSvPzdvKzQQ3fVY0xm_W3mYLA&oe=67AFEB48)" 
-             alt="Profile Image"> 
-    </td>
-    <td width="50%">
-        <h3>About Me</h3>
-        <p>
-            I’m Võ Quốc Triệu, but you can call me James. I’m currently learning and exploring new technologies 
-            like Next.js, NestJS, and PostgreSQL. I’m passionate about programming and always eager to improve my skills.
-        </p>
-        <p>
-            I focus on building strong web applications and managing databases. My goal is to become a skilled developer 
-            who can contribute to meaningful projects and solve challenging problems.
-        </p>
-// Initialize Triệu
-const trieu = new VoQuocTrieu();
-trieu.sayHi();
-        </pre>
-    </td>
-</tr>
-</table>
-
 <h2>💻 Tech Stack</h2>
 <p>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
