@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+<div align="center">
+  <h1>🚀 Hi, I'm Vo Quoc Trieu 🌟</h1>
+</div>
 <body>
     <h1 align ="center">Hi, I'm Vo Quoc Trieu</h1>
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image">
