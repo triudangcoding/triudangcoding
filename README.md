@@ -4,7 +4,6 @@
   <h1>🚀 Hi, I'm Vo Quoc Trieu 🌟</h1>
 </div>
 <body>
-    <h1 align ="center">Hi, I'm Vo Quoc Trieu</h1>
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image">
     <h3 align= "center">I'm a Software Engineering Student at Duy Tan University</h3>
      <p style="line-height: 1.6; color: #444; font-size: 1.1em;">
