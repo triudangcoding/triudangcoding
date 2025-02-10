@@ -1,36 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vo Quoc Trieu - Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
-        table {
-            width: 100%;
-            margin-top: 20px;
-        }
-        td {
-            vertical-align: top;
-            padding: 20px;
-        }
-        img {
-            border-radius: 15px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            object-fit: cover;
-            max-width: 100%;
-        }
-        p {
-            line-height: 1.6;
-            color: #444;
-            font-size: 1.1em;
-            text-align: left;
-        }
-    </style>
-</head>
 <body>
 
 <div align="center">
