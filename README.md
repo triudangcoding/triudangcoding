@@ -1,5 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vo Quoc Trieu - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        table {
+            width: 100%;
+            margin-top: 20px;
+        }
+        td {
+            vertical-align: top;
+            padding: 20px;
+        }
+        img {
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            object-fit: cover;
+            max-width: 100%;
+        }
+        pre {
+            background: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: left;
+            overflow-x: auto;
+            font-size: 14px;
+        }
+        h2 {
+            margin-top: 20px;
+        }
+    </style>
+</head>
 <body>
 
 <div align="center">
@@ -8,29 +44,42 @@
 
 <table>
 <tr>
-    <td width="80%">
+    <td width="50%">
         <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
              alt="Profile Image"> 
     </td>
-    <td width="20%">
-        class VoQuocTrieu {
-  constructor() {
-    this.name = "Võ Quốc Triệu";
-    this.birth_year = 2004;
-    this.role = "Software Engineer";
-    this.language_spoken = ["vi_VN", "en_US"];
-    this.education = "Software Engineering @ Duy Tan University";
-  }
+    <td width="50%">
+        <h3>About Me</h3>
+        <p>
+            I’m Võ Quốc Triệu, but you can call me James. I’m currently learning and exploring new technologies 
+            like Next.js, NestJS, and PostgreSQL. I’m passionate about programming and always eager to improve my skills.
+        </p>
+        <p>
+            I focus on building strong web applications and managing databases. My goal is to become a skilled developer 
+            who can contribute to meaningful projects and solve challenging problems.
+        </p>
 
-  sayHi() {
-    console.log("Thanks for dropping by! Let's innovate together! 🚀");
-  }
+        <h3>💡 My Developer Profile (JavaScript)</h3>
+        <pre>
+class VoQuocTrieu {
+    constructor() {
+        this.name = "Võ Quốc Triệu";
+        this.birth_year = 2004;
+        this.role = "Software Engineer";
+        this.language_spoken = ["vi_VN", "en_US"];
+        this.education = "Software Engineering @ Duy Tan University";
+    }
+
+    sayHi() {
+        console.log("Thanks for dropping by! Let's innovate together! 🚀");
+    }
 }
 
-// Initialize Tuan
+// Initialize Triệu
 const trieu = new VoQuocTrieu();
 trieu.sayHi();
-</td>
+        </pre>
+    </td>
 </tr>
 </table>
 
@@ -60,6 +109,26 @@ trieu.sayHi();
 <h4>
     My Portfolio: <a href="https://trieudangcoding.github.io/Portfolio" target="_blank">Visit Here</a>
 </h4>
+
+<script>
+    class VoQuocTrieu {
+        constructor() {
+            this.name = "Võ Quốc Triệu";
+            this.birth_year = 2004;
+            this.role = "Software Engineer";
+            this.language_spoken = ["vi_VN", "en_US"];
+            this.education = "Software Engineering @ Duy Tan University";
+        }
+
+        sayHi() {
+            console.log("Thanks for dropping by! Let's innovate together! 🚀");
+        }
+    }
+
+    // Khởi tạo đối tượng và gọi phương thức sayHi()
+    const trieu = new VoQuocTrieu();
+    trieu.sayHi();
+</script>
 
 </body>
 </html>
