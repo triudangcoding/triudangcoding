@@ -8,35 +8,28 @@
 
 <table>
 <tr>
-    <td width="50%">
+    <td width="80%">
         <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
              alt="Profile Image"> 
     </td>
-    <td width="50%">
-        <h3 align="center">I'm a Software Engineering Student at Duy Tan University</h3>
-        <p>
-            I’m Võ Quốc Triệu, but you can call me James. I’m currently learning and exploring new technologies 
-            like Next.js, NestJS, and PostgreSQL. Although I don’t have much practical experience yet, 
-            I am very passionate about programming and technology.
-        </p>
-        <p>
-            I’m focused on learning how to build strong web applications and manage databases.
-            My goal is to become a skilled developer who can contribute to meaningful projects and solve challenging problems.
-        </p>
-        <p>
-            I’m an easygoing person who is always eager to learn. I believe in continuous personal growth and the 
-            importance of working with others. I want to connect with the tech community to share knowledge, 
-            learn from others, and grow both personally and professionally.
-        </p>
-        <p>
-            Outside of programming, I aim to support my family and create a better life for myself.
-            I’m excited to use my skills to make a positive impact and achieve my personal and career goals.
-        </p>
-        <p>
-            Feel free to connect with me through the social media links above. I look forward to meeting like-minded 
-            people, collaborating on interesting projects, and growing in the world of technology.
-        </p>
-    </td>
+    <td width="20%">
+        class VoQuocTrieu {
+  constructor() {
+    this.name = "Võ Quốc Triệu";
+    this.birth_year = 2004;
+    this.role = "Software Engineer";
+    this.language_spoken = ["vi_VN", "en_US"];
+    this.education = "Software Engineering @ Duy Tan University";
+  }
+
+  sayHi() {
+    console.log("Thanks for dropping by! Let's innovate together! 🚀");
+  }
+}
+
+// Initialize Tuan
+const trieu = new VoQuocTrieu();
+trieu.sayHi();
 </tr>
 </table>
 
