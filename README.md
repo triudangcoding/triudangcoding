@@ -3,9 +3,16 @@
 <div align="center">
   <h1>🚀 Hi, I'm Vo Quoc Trieu 🌟</h1>
 </div>
-<body>
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image">
-    <h3 align= "center">I'm a Software Engineering Student at Duy Tan University</h3>
+
+  <table>
+<tr>
+  <td width="80%">
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); object-fit: cover;"> 
+</td>
+<td width="20%">
+
+```js
+<h3 align= "center">I'm a Software Engineering Student at Duy Tan University</h3>
      <p style="line-height: 1.6; color: #444; font-size: 1.1em;">
         I’m Võ Quốc Triệu, but you can call me James. I’m currently learning and exploring new technologies like Next.js, NestJS, and PostgreSQL.
         Although I don’t have much practical experience yet, I am very passionate about programming and technology.
@@ -26,6 +33,13 @@
         Feel free to connect with me through the social media links above. I look forward to meeting like-minded people,
         collaborating on interesting projects, and growing in the world of technology.
     </p>
+
+</td>
+</tr>
+</table>
+<body>
+   
+    
 
 
    # 💻Tech Stack
