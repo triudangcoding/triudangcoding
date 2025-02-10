@@ -30,6 +30,7 @@
 // Initialize Tuan
 const trieu = new VoQuocTrieu();
 trieu.sayHi();
+</td>
 </tr>
 </table>
 
