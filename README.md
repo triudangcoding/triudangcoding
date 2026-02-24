@@ -74,13 +74,5 @@
 <br>
 
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=triudangcoding&show_icons=true&theme=transparent&hide_border=true&title_color=9C88FF&icon_color=9C88FF&text_color=ffffff" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triudangcoding&layout=compact&theme=transparent&hide_border=true&title_color=9C88FF&text_color=ffffff" height="165" alt="Top Languages" />
-</div>
-
-<br><br>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=9C88FF&center=true&vCenter=true&width=400&lines=Let's+connect+and+build+something+amazing." alt="Footer animation" />
 </div>
