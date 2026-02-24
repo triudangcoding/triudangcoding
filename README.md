@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" alt="Aesthetic Banner"/>
   <br><br
   <a href="https://trieudangcoding.github.io/Portfolio" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9C88FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Building+Scalable+Web+Apps;Crafting+Elegant+Interfaces;Exploring+Blockchain+Solutions" alt="Typing effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9C88FF&center=true&vCenter=true&width=500&lines=Software+Engineer" alt="Typing effect" />
   </a>
 </div>
 
