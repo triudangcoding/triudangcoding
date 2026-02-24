@@ -10,39 +10,33 @@
   </a>
 </div>
 
-<br>
+<br><br>
 
-<div align="center">
+<div>
+  <img align="right" src="https://scontent.fdad8-2.fna.fbcdn.net/v/t39.30808-6/474509272_1158886789122878_1909158187647241450_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=53a332&_nc_ohc=14eIb4pNEosQ7kNvwEaEum-&_nc_oc=Adl0nN8mIeB7gE30-Sg9o--WSwacASFXye4NtuOtvwx0-GxUfQ1QHGWVqhL3MR2qrxg&_nc_zt=23&_nc_ht=scontent.fdad8-2.fna&_nc_gid=AgZDvxKqHKrccTrIeV7oYg&oh=00_AfsZTBAMEgtm_4_WRealX8QxsdycJQSlQqzxyiOTJqq-gw&oe=69A31616" width="220px" style="border-radius: 50%; border: 4px solid #9C88FF; box-shadow: 0px 4px 15px rgba(156, 136, 255, 0.4); margin-left: 30px; margin-bottom: 20px;" alt="Vo Quoc Trieu Profile">
+
   <h3>⚡ About Me</h3>
-  <p style="max-width: 800px;">
+  <p align="justify">
     I am a passionate <b>Software Engineer</b> driven by the challenge of building scalable, high-performance applications. Thriving at the intersection of robust backend architecture and intuitive frontend design, I constantly push myself to explore modern frameworks and decentralized tech. My goal is to craft impactful, user-centric digital solutions for tomorrow’s world.
+  </p>
+
+  <h3>🧑‍💻 Quick Info</h3>
+  <ul>
+    <li>🎓 <b>Education:</b> Final-year student at Duy Tan University</li>
+    <li>🌱 <b>Learning:</b> Flutter & Software Quality Models</li>
+    <li>💡 <b>Focus:</b> Web3, Real Estate Systems</li>
+    <li>🎂 <b>Born:</b> September 29, 2004</li>
+  </ul>
+
+  <p align="left">
+    <a href="https://trieudangcoding.github.io/Portfolio" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=googlechrome&logoColor=white&color=9C88FF" alt="Portfolio">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=triudangcoding&label=Views&color=9C88FF&style=for-the-badge" alt="Profile Views">
   </p>
 </div>
 
-<br>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://scontent.fdad8-2.fna.fbcdn.net/v/t39.30808-6/474509272_1158886789122878_1909158187647241450_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=53a332&_nc_ohc=14eIb4pNEosQ7kNvwEaEum-&_nc_oc=Adl0nN8mIeB7gE30-Sg9o--WSwacASFXye4NtuOtvwx0-GxUfQ1QHGWVqhL3MR2qrxg&_nc_zt=23&_nc_ht=scontent.fdad8-2.fna&_nc_gid=AgZDvxKqHKrccTrIeV7oYg&oh=00_AfsZTBAMEgtm_4_WRealX8QxsdycJQSlQqzxyiOTJqq-gw&oe=69A31616" width="220px" style="border-radius: 50%; border: 4px solid #9C88FF; box-shadow: 0px 4px 15px rgba(156, 136, 255, 0.4);" alt="Vo Quoc Trieu Profile">
-    </td>
-    <td width="50%" valign="middle">
-      <h3>🧑‍💻 Quick Info</h3>
-      <ul>
-        <li>🎓 <b>Education:</b> Final-year student at Duy Tan University</li>
-        <li>🌱 <b>Learning:</b> Flutter & Software Quality Models</li>
-        <li>💡 <b>Focus:</b> Web3, Real Estate Systems</li>
-        <li>🎂 <b>Born:</b> September 29, 2004</li>
-      </ul>
-      <p>
-        <a href="https://trieudangcoding.github.io/Portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=googlechrome&logoColor=white&color=9C88FF" alt="Portfolio">
-        </a>
-        <img src="https://komarev.com/ghpvc/?username=triudangcoding&label=Views&color=9C88FF&style=for-the-badge" alt="Profile Views">
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="clear: both;"></div>
 
 <br>
 
